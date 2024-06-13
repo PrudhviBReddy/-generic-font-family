@@ -1,0 +1,104 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Tiny5&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&family=Tiny5&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&family=Tiny5&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&family=Tiny5&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Gwendolyn:wght@400;700&family=Noto+Sans+Syriac+Eastern:wght@100..900&family=Oswald:wght@200..700&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&family=Tiny5&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Bungee+Hairline&family=Edu+SA+Beginner:wght@400..700&family=Gwendolyn:wght@400;700&family=Hind+Siliguri:wght@300;400;500;600;700&family=Lexend+Peta:wght@100..900&family=Montagu+Slab:opsz,wght@16..144,100..700&family=Noto+Sans+Syriac+Eastern:wght@100..900&family=Oswald:wght@200..700&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&family=Sulphur+Point:wght@300;400;700&family=Tiny5&family=Tiro+Kannada:ital@0;1&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Bungee+Hairline&family=Edu+SA+Beginner:wght@400..700&family=Gwendolyn:wght@400;700&family=Hind+Siliguri:wght@300;400;500;600;700&family=Lexend+Peta:wght@100..900&family=Montagu+Slab:opsz,wght@16..144,100..700&family=Moul&family=Noto+Sans+Syriac+Eastern:wght@100..900&family=Oswald:wght@200..700&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&family=Sulphur+Point:wght@300;400;700&family=Tiny5&family=Tiro+Kannada:ital@0;1&family=Zilla+Slab+Highlight:wght@400;700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Bungee+Hairline&family=Edu+SA+Beginner:wght@400..700&family=Gwendolyn:wght@400;700&family=Hind+Siliguri:wght@300;400;500;600;700&family=Lexend+Peta:wght@100..900&family=Londrina+Outline&family=Montagu+Slab:opsz,wght@16..144,100..700&family=Moul&family=Noto+Sans+Syriac+Eastern:wght@100..900&family=Oswald:wght@200..700&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&family=Sulphur+Point:wght@300;400;700&family=Tiny5&family=Tiro+Kannada:ital@0;1&family=Zilla+Slab+Highlight:wght@400;700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Bungee+Hairline&family=Edu+SA+Beginner:wght@400..700&family=Gwendolyn:wght@400;700&family=Hind+Siliguri:wght@300;400;500;600;700&family=Lexend+Peta:wght@100..900&family=Londrina+Outline&family=Montagu+Slab:opsz,wght@16..144,100..700&family=Moul&family=Noto+Sans+Syriac+Eastern:wght@100..900&family=Nova+Flat&family=Oswald:wght@200..700&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&family=Sulphur+Point:wght@300;400;700&family=Tiny5&family=Tiro+Kannada:ital@0;1&family=Zilla+Slab+Highlight:wght@400;700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Tammudu+2:wght@400..800&family=Bebas+Neue&family=Bungee+Hairline&family=Edu+SA+Beginner:wght@400..700&family=Gwendolyn:wght@400;700&family=Hind+Siliguri:wght@300;400;500;600;700&family=Lexend+Peta:wght@100..900&family=Londrina+Outline&family=Montagu+Slab:opsz,wght@16..144,100..700&family=Moul&family=Noto+Sans+Syriac+Eastern:wght@100..900&family=Nova+Flat&family=Oswald:wght@200..700&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&family=Sulphur+Point:wght@300;400;700&family=Tiny5&family=Tiro+Kannada:ital@0;1&family=Zilla+Slab+Highlight:wght@400;700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Asset&family=Baloo+Tammudu+2:wght@400..800&family=Bebas+Neue&family=Bungee+Hairline&family=Edu+SA+Beginner:wght@400..700&family=Gwendolyn:wght@400;700&family=Hind+Siliguri:wght@300;400;500;600;700&family=Lexend+Peta:wght@100..900&family=Londrina+Outline&family=Montagu+Slab:opsz,wght@16..144,100..700&family=Moul&family=Noto+Sans+Syriac+Eastern:wght@100..900&family=Nova+Flat&family=Oswald:wght@200..700&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&family=Sulphur+Point:wght@300;400;700&family=Tiny5&family=Tiro+Kannada:ital@0;1&family=Zilla+Slab+Highlight:wght@400;700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Asset&family=Baloo+Tammudu+2:wght@400..800&family=Bebas+Neue&family=Bungee+Hairline&family=Edu+SA+Beginner:wght@400..700&family=Gwendolyn:wght@400;700&family=Hind+Siliguri:wght@300;400;500;600;700&family=Lexend+Peta:wght@100..900&family=Londrina+Outline&family=Montagu+Slab:opsz,wght@16..144,100..700&family=Moul&family=Noto+Sans+Syriac+Eastern:wght@100..900&family=Nova+Flat&family=Oswald:wght@200..700&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Ramaraja&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&family=Sulphur+Point:wght@300;400;700&family=Tiny5&family=Tiro+Kannada:ital@0;1&family=Train+One&family=Zilla+Slab+Highlight:wght@400;700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Asset&family=Baloo+Tammudu+2:wght@400..800&family=Bebas+Neue&family=Bungee+Hairline&family=Edu+SA+Beginner:wght@400..700&family=Gwendolyn:wght@400;700&family=Hind+Siliguri:wght@300;400;500;600;700&family=Iceberg&family=Lexend+Peta:wght@100..900&family=Londrina+Outline&family=Montagu+Slab:opsz,wght@16..144,100..700&family=Moul&family=Noto+Sans+Syriac+Eastern:wght@100..900&family=Nova+Flat&family=Oswald:wght@200..700&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Ramaraja&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&family=Sulphur+Point:wght@300;400;700&family=Tiny5&family=Tiro+Kannada:ital@0;1&family=Train+One&family=Zilla+Slab+Highlight:wght@400;700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Asset&family=Baloo+Tammudu+2:wght@400..800&family=Bebas+Neue&family=Bungee+Hairline&family=Edu+SA+Beginner:wght@400..700&family=Gwendolyn:wght@400;700&family=Hind+Siliguri:wght@300;400;500;600;700&family=Iceberg&family=Lexend+Giga:wght@100..900&family=Lexend+Peta:wght@100..900&family=Londrina+Outline&family=Montagu+Slab:opsz,wght@16..144,100..700&family=Moul&family=Noto+Sans+Syriac+Eastern:wght@100..900&family=Nova+Flat&family=Oswald:wght@200..700&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Ramaraja&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&family=Stint+Ultra+Condensed&family=Sulphur+Point:wght@300;400;700&family=Tiny5&family=Tiro+Kannada:ital@0;1&family=Train+One&family=Zilla+Slab+Highlight:wght@400;700&display=swap');
+
+
+#election{
+    font-family: "Tiny5", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+#election1{
+    font-family: "Roboto Condensed", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+#election2{
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
+#election3{
+    font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: italic;
+}
+#election4{
+    font-family: "Gwendolyn", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+#election5{
+    font-family: "Tiro Kannada", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+#election6{
+    font-family: "Zilla Slab Highlight", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+#election7{
+    font-family: "Londrina Outline", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+#election8{
+    font-family: "Nova Flat", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+#election9{
+    font-family: "Baloo Tammudu 2", system-ui;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
+#election10{
+    font-family: "Asset", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+#election11{
+    font-family: "Ramaraja", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+#election12{
+    font-family: "Iceberg", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
+#election13{
+    font-family: "Stint Ultra Condensed", serif;
+    font-weight: 400;
+    font-style: normal;
+}
